@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A2andil\\Github\\KlienProf\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\A2andil\\Github\\KlienProf\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A2andil\\Github\\KlienProf\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\A2andil\\Github\\KlienProf\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A2andil\\Github\\KlienProf\\Infrastructure\\Infrastructure.csproj",
-        "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\A2andil\\Github\\KlienProf\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\A2andil\\Github\\KlienProf\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\A2andil\\Github\\KlienProf\\API\\API.csproj",
         "packagesPath": "C:\\Users\\A2andil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A2andil\\Github\\KlienProf\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\A2andil\\Github\\KlienProf\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A2andil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -48,6 +54,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

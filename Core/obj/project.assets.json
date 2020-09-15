@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A2andil\\Github\\crepixa\\E-Learning\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\A2andil\\Github\\KlienProf\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\A2andil\\Github\\crepixa\\E-Learning\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\A2andil\\Github\\KlienProf\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\A2andil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A2andil\\Github\\crepixa\\E-Learning\\Core\\obj\\",
+      "outputPath": "C:\\Users\\A2andil\\Github\\KlienProf\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A2andil\\AppData\\Roaming\\NuGet\\NuGet.Config",
