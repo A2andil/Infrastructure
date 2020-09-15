@@ -1,0 +1,12 @@
+C:\Users\A2andil\Github\KlienProf\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\A2andil\Github\KlienProf\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\A2andil\Github\KlienProf\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\A2andil\Github\KlienProf\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
+C:\Users\A2andil\Github\KlienProf\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\A2andil\Github\KlienProf\Core\obj\Debug\netcoreapp3.1\Core.pdb
