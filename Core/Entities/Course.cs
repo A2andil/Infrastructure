@@ -15,5 +15,10 @@ namespace Core.Entities
         public int Price { get; set; }
 
         public DateTime Created { get; set; }
+
+        public CourseType CourseType { get; set; }
+
+        public int CourseTypeId { get; set; }
+
     }
 }
